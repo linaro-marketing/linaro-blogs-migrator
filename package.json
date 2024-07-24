@@ -1,0 +1,26 @@
+{
+  "name": "linarowebsitemigration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "liquidjs": "^10.10.2",
+    "remark": "^15.0.1",
+    "remark-extract-frontmatter": "^3.2.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-gfm": "^4.0.0",
+    "remark-gfm-no-autolink": "^2.0.0",
+    "remark-mdx": "^3.0.1",
+    "to-vfile": "^8.0.0",
+    "unist-util-visit": "^5.0.0",
+    "vfile-matter": "^5.0.0",
+    "yaml": "^2.4.1"
+  }
+}
