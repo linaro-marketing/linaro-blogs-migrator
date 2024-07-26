@@ -1,3 +1,0 @@
----
-name: Windows on Arm
----
