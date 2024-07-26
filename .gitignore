@@ -1,3 +1,5 @@
 website/
 .env*
 node_modules/
+new_content/
+old_content/
